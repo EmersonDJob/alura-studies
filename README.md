@@ -1,5 +1,5 @@
 # React: escrevendo com Typescript
-## Alura 
+## Alura - Curso finalizado 
 
 
 
